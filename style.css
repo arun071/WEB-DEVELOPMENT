@@ -1,0 +1,16 @@
+p{
+    /* background-color: aqua; */
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    font-style: italic;
+
+    
+}
+div{
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+    border-radius: 50%;
+    margin-left: 50px;
+}
